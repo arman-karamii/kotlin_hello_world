@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorldKotlin</string>
+    <string name="developer_greeting">Hello from Arman:)</string>
+</resources>
